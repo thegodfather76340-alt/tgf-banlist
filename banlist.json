@@ -1,1 +1,10 @@
-{"data":{"banned_hwids":[],"reasons":{},"updated":"2026-05-15T01:46:13.897012","version":1778834773,"count":0},"signature":"fFhtkC8FE0XspMMu0VV1mUT0VDzpwb+yPOgfPx4W+n8bPzFMOfT3NIwvIiQKmG1VQ6JIRuX0SrEFvFdXxUIuwBifUfcthHvHWnXIzjT95J5kNky67CqjZJBc2vExzk4iKgf5//DFbfFzH9DIOZfyT4SZHnX0hnvLyZpMG/1WupepgVByL6QYYJH4Tc1fUt8SRJugd83i8omhBMaZFrUTun+D/hqlOxjyIOXyo5tbGnv10O0NoG8BLEhltgKFTzg/lnZWcq3jnIGstLvjs57fcssWo/PCdkAw2LkaoyR9JmimStrh3pr1I7qjcC6bF+OD/QNkH7v7/azRooMaVgx3xQ=="}
+{
+  "data": {
+    "banned_hwids": [],
+    "count": 0,
+    "reasons": {},
+    "updated": "2026-05-15T01:46:13.897012",
+    "version": 1778834773
+  },
+  "signature": "fFhtkC8FE0XspMMu0VV1mUT0VDzpwb+yPOgfPx4W+n8bPzFMOfT3NIwvIiQKmG1VQ6JIRuX0SrEFvFdXxUIuwBifUfcthHvHWnXIzjT95J5kNky67CqjZJBc2vExzk4iKgf5//DFbfFzH9DIOZfyT4SZHnX0hnvLyZpMG/1WupepgVByL6QYYJH4Tc1fUt8SRJugd83i8omhBMaZFrUTun+D/hqlOxjyIOXyo5tbGnv10O0NoG8BLEhltgKFTzg/lnZWcq3jnIGstLvjs57fcssWo/PCdkAw2LkaoyR9JmimStrh3pr1I7qjcC6bF+OD/QNkH7v7/azRooMaVgx3xQ=="
+}
